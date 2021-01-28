@@ -1,0 +1,1 @@
+documwnt.write("hello");
